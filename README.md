@@ -45,9 +45,3 @@ Criei uma função para verificar a maioridade. Quando a função é declarada c
 Usei `if/else` para classificar notas, `switch` para o semáforo e para os dias da semana, `for` para a tabuada e para pares e ímpares, e `while` para a contagem regressiva e a outra lista de pares e ímpares.
 
 Na função `diaDaSemana`, escolhi **1 para segunda-feira** e **7 para domingo**.
-
-## Por que aparecem TypeError e ReferenceError?
-
-Esses erros fazem parte dos desafios da aula. Eu coloquei as tentativas dentro de `try/catch`, assim o programa mostra o nome do erro e continua executando os próximos exercícios.
-
-Não é preciso instalar bibliotecas. O projeto funciona com JavaScript padrão (ES6+).
